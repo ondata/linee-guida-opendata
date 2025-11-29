@@ -27,9 +27,9 @@ Se accolta, la richiesta comporta la **pubblicazione dei dati in formato aperto*
 
 Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), né **una richiesta di accesso civico semplice**, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.
 
-Questa è una forma autonoma di richiesta, fondata sull'**[art. 5, comma 1 del D.Lgs. 36/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5)**, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche **su richiesta dell'interessato**, quando non siano ancora stati pubblicati come open data. È quindi un **nuovo diritto di accesso per finalità di riutilizzo**, distinto dalle logiche della trasparenza e centrato sulla **valorizzazione del patrimonio informativo pubblico**.
+Questa è una forma autonoma di richiesta, fondata sull'**[art. 5, comma 1 del D.Lgs. 36/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5)**, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche **su richiesta delle persone interessate**, quando non siano ancora stati pubblicati come open data. È quindi un **nuovo diritto di accesso per finalità di riutilizzo**, distinto dalle logiche della trasparenza e centrato sulla **valorizzazione del patrimonio informativo pubblico**.
 
-➡️ È un tipo di richiesta i cui **esiti** sono messi **a disposizione di tutte le persone**, al contrario delle richieste di accesso, in cui i dati vengono forniti solo a chi li ha richiesti.
+➡️ È un tipo di richiesta i cui **esiti** sono messi **a disposizione di tutte le persone**, al contrario delle richieste di accesso, in cui i dati vengono solitamente forniti soltanto a chi li ha richiesti.
 
 ## Esempio di richiesta
 
