@@ -29,6 +29,8 @@ Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), 
 
 Questa è una forma autonoma di richiesta, fondata sull'**[art. 5, comma 1 del D.Lgs. 36/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5)**, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche **su richiesta dell'interessato**, quando non siano ancora stati pubblicati come open data. È quindi un **nuovo diritto di accesso per finalità di riutilizzo**, distinto dalle logiche della trasparenza e centrato sulla **valorizzazione del patrimonio informativo pubblico**.
 
+➡️ È un tipo di richiesta i cui **esiti** sono messi **a disposizione di tutte le persone**, e non come le richieste di accesso, in cui i dati vengono forniti solo a chi li ha richiesti.
+
 ## Esempio di richiesta
 
 Si consiglia di inviare la richiesta tramite **PEC**.
