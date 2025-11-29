@@ -23,6 +23,8 @@ Se la richiesta viene respinta, l'amministrazione deve **spiegare il motivo del 
 
 Se accolta, la richiesta comporta la **pubblicazione dei dati in formato aperto**, secondo gli standard previsti (pubblicazione nel portale open data della Pubblica Amministrazione a cui si è fatta la richiesta, o in una pagina web dedicata), e non un invio diretto solo al richiedente.
 
+Nel **[par. -@sec-richieste-di-riutilizzo]** delle linee guida tutti i dettagli e procedurali.
+
 ## Nota bene
 
 Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), né **una richiesta di accesso civico semplice**, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.
