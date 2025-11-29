@@ -47,19 +47,13 @@ book:
         - capitolo-5.qmd
         - capitolo-6.qmd
         - capitolo-7.qmd
-    # - part: "Test"
-    #   chapters:
-    #     - debug/raw-html-cr.qmd
-    #     - test_cit.qmd
-    #     - small_table.qmd
-    #     - debug/column-page-inset.qmd
-    #     - debug/cr-label.qmd
-    #     - debug/home.qmd
   appendices:
     - allegato-A.qmd
     - allegato-B.qmd
     - allegato-C.qmd
     - allegato-D.qmd
+    - text: "---"
+    - extra/richiesta-dati.qmd
 
   repo-url: https://github.com/ondata/linee-guida-opendata
   repo-branch: main

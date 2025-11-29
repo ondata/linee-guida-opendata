@@ -1,0 +1,56 @@
+---
+title: "Richiesta dati"
+subtitle: "Come fare richieste di dati aperti alla pubblica amministrazione"
+number: false
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+::: {.callout-note}
+## Nota della redazione
+
+Questa pagina non fa parte delle Linee Guida ufficiali, ma è stata aggiunta dalla redazione di onData come risorsa aggiuntiva.
+:::
+
+Queste linee guida stabiliscono che anche tu, come cittadino o soggetto interessato, puoi **chiedere** a una pubblica amministrazione di **rendere disponibili dati per il riutilizzo**. La richiesta va formulata in modo chiaro, indicando quali dati desideri ottenere e, se possibile, in quale formato elettronico.
+
+La pubblica amministrazione deve **rispondere entro 30 giorni**. Se la richiesta è particolarmente complessa o se ne ricevono molte contemporaneamente, il termine può essere prorogato di altri 20 giorni, ma solo con comunicazione motivata.<br>
+Puoi inviare la tua richiesta all'ufficio che detiene i dati, all'Ufficio per le relazioni con il pubblico (URP) o al Responsabile per la Transizione Digitale dell'ente.
+
+Se la richiesta viene respinta, l'amministrazione deve **spiegare il motivo del diniego**.
+
+Se accolta, la richiesta comporta la **pubblicazione dei dati in formato aperto**, secondo gli standard previsti (pubblicazione nel portale open data della Pubblica Amministrazione a cui si è fatta la richiesta, o in una pagina web dedicata), e non un invio diretto solo al richiedente.
+
+## Nota bene
+
+Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), né **una richiesta di accesso civico semplice**, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.
+
+Questa è una forma autonoma di richiesta, fondata sull'**[art. 5, comma 1 del D.Lgs. 36/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5)**, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche **su richiesta dell'interessato**, quando non siano ancora stati pubblicati come open data. È quindi un **nuovo diritto di accesso per finalità di riutilizzo**, distinto dalle logiche della trasparenza e centrato sulla **valorizzazione del patrimonio informativo pubblico**.
+
+## Esempio di richiesta
+
+Si consiglia di inviare la richiesta tramite **PEC**.
+
+> **Oggetto:** Richiesta di riutilizzo dati ai sensi dell'art. 5 del D.Lgs. 36/2006
+>
+> **Testo della richiesta:**
+>
+>
+> Alla cortese attenzione dell'ufficio competente,
+>
+> il/la sottoscritto/a [Nome Cognome], [eventuale ruolo o ente di appartenenza], intende, ai sensi dell'art. 5 del D.Lgs. 24 gennaio 2006, n. 36 [1], presentare richiesta di riutilizzo dei seguenti dati detenuti dalla Vostra amministrazione:
+>
+> **[descrivere con chiarezza i dati richiesti: es. dati sulle emissioni atmosferiche nel Comune X tra il 2019 e il 2023, comprensivi di coordinate geografiche e formato temporale]**.
+>
+> Chiedo, ove possibile, che i dati siano pubblicati in formato aperto e riutilizzabile, secondo quanto previsto dalla normativa vigente e dalle Linee Guida AgID [2], rendendoli disponibili tramite il portale open data dell'ente o altra piattaforma accessibile pubblicamente.
+>
+> Resto a disposizione per ogni chiarimento utile alla definizione della richiesta.
+>
+> Cordiali saluti,
+>
+> [Nome Cognome]
+>
+> [1] <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5><br>
+> [2] <https://www.agid.gov.it/sites/agid/files/2024-05/lg-open-data_v.1.0_1.pdf>
