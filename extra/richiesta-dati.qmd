@@ -11,7 +11,7 @@ format:
 ::: {.callout-note}
 ## Nota della redazione
 
-Questa pagina non fa parte delle Linee Guida ufficiali, ma è stata aggiunta dalla redazione di onData come risorsa aggiuntiva.
+Questa pagina è **a cura dell'associazione onData**, **non è parte delle linee guida ufficiali dell'Agenzia per l'Italia Digitale (AgID)**.
 :::
 
 Queste linee guida stabiliscono che anche tu, come cittadino o soggetto interessato, puoi **chiedere** a una pubblica amministrazione di **rendere disponibili dati per il riutilizzo**. La richiesta va formulata in modo chiaro, indicando quali dati desideri ottenere e, se possibile, in quale formato elettronico.
