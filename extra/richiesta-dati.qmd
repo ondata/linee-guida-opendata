@@ -27,7 +27,7 @@ Nel **[par. -@sec-richieste-di-riutilizzo]** delle linee guida tutti gli altri d
 
 ## Nota bene
 
-Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), né **una richiesta di accesso civico semplice**, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.
+Questa **non è** una richiesta di **accesso civico generalizzato** (**FOIA**), né una **richiesta di accesso documentale**, né **una richiesta di accesso civico semplice**, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.
 
 È una forma autonoma di richiesta, fondata sull'**[art. 5, comma 1 del D.Lgs. 36/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5)**, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche **su richiesta delle persone interessate**, quando non siano ancora stati pubblicati come open data.<br>
 È quindi un **diritto di accesso per finalità di riutilizzo**, distinto dalle logiche della trasparenza e centrato sulla **valorizzazione del patrimonio informativo pubblico**.
