@@ -583,5 +583,27 @@
       "Allegati",
       "<span class='chapter-number'>D</span>  <span class='chapter-title'>Elenco analitico delle risorse utili</span>"
     ]
+  },
+  {
+    "objectID": "extra/richiesta-dati.html",
+    "href": "extra/richiesta-dati.html",
+    "title": "Allegato E — Richiesta dati",
+    "section": "",
+    "text": "E.1 Nota bene\nQuesta non è una richiesta di accesso civico generalizzato (FOIA), né una richiesta di accesso civico semplice, legata agli obblighi di pubblicazione previsti dalle norme sulla trasparenza.\nQuesta è una forma autonoma di richiesta, fondata sull’art. 5, comma 1 del D.Lgs. 36/2006, che riconosce il diritto al riutilizzo dei dati detenuti dalle pubbliche amministrazioni, anche su richiesta dell’interessato, quando non siano ancora stati pubblicati come open data. È quindi un nuovo diritto di accesso per finalità di riutilizzo, distinto dalle logiche della trasparenza e centrato sulla valorizzazione del patrimonio informativo pubblico.",
+    "crumbs": [
+      "Allegati",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Richiesta dati</span>"
+    ]
+  },
+  {
+    "objectID": "extra/richiesta-dati.html#esempio-di-richiesta",
+    "href": "extra/richiesta-dati.html#esempio-di-richiesta",
+    "title": "Allegato E — Richiesta dati",
+    "section": "E.2 Esempio di richiesta",
+    "text": "E.2 Esempio di richiesta\nSi consiglia di inviare la richiesta tramite PEC.\n\nOggetto: Richiesta di riutilizzo dati ai sensi dell’art. 5 del D.Lgs. 36/2006\nTesto della richiesta:\nAlla cortese attenzione dell’ufficio competente,\nil/la sottoscritto/a [Nome Cognome], [eventuale ruolo o ente di appartenenza], intende, ai sensi dell’art. 5 del D.Lgs. 24 gennaio 2006, n. 36 [1], presentare richiesta di riutilizzo dei seguenti dati detenuti dalla Vostra amministrazione:\n[descrivere con chiarezza i dati richiesti: es. dati sulle emissioni atmosferiche nel Comune X tra il 2019 e il 2023, comprensivi di coordinate geografiche e formato temporale].\nChiedo, ove possibile, che i dati siano pubblicati in formato aperto e riutilizzabile, secondo quanto previsto dalla normativa vigente e dalle Linee Guida AgID [2], rendendoli disponibili tramite il portale open data dell’ente o altra piattaforma accessibile pubblicamente.\nResto a disposizione per ogni chiarimento utile alla definizione della richiesta.\nCordiali saluti,\n[Nome Cognome]\n[1] https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-01-24;36~art5 [2] https://www.agid.gov.it/sites/agid/files/2024-05/lg-open-data_v.1.0_1.pdf",
+    "crumbs": [
+      "Allegati",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Richiesta dati</span>"
+    ]
   }
 ]
