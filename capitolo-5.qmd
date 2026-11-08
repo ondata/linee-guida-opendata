@@ -1,4 +1,4 @@
-# Analisi
+# Aspetti organizzativi e qualità dei dati
 
 Il Decreto non contiene specifiche disposizioni sugli aspetti organizzativi e di qualità dei dati. Si ritiene però, utile, riportare nel seguito alcune indicazioni mirate, alcune delle quali, peraltro, già presenti nelle *[Linee Guida per la valorizzazione del patrimonio informativo pubblico](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html)*, sebbene organizzate diversamente e ove necessario integrate e/o riviste, come raccomandazioni su tali aspetti che si ritengono cruciali per un processo di apertura e di riutilizzo efficace e sostenibile.
 

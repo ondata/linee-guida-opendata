@@ -194,7 +194,7 @@ NdR - Guida operativa sulle serie di dati di elevato valore
 ::::
 
 ::::{.ndr-body}
-La **guida operativa** citata sopra, è [stata poi pubblicata](https://www.agid.gov.it/sites/agid/files/2024-06/Guida%20operativa%20sulle%20serie%20di%20dati%20di%20elevato%20valore.pdf) da AgID ([notizia](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2023/12/22/open-data-online-guida-operativa-sui-dati-elevato-valore) di lancio).
+La **guida operativa** citata sopra, è [stata poi pubblicata](https://www.agid.gov.it/sites/agid/files/2024-12/Guida_operativa_sulle_serie_di_dati_di_elevato_valore.pdf) da AgID ([notizia](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2023/12/22/open-data-online-guida-operativa-sui-dati-elevato-valore) di lancio) e aggiornata alla versione 1.1 nel novembre 2024.
 ::::
 
 :::
