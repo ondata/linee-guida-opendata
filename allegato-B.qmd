@@ -61,6 +61,22 @@ Ogni riga deve avere lo stesso numero di colonne e, quindi, di caratteri separat
 
 L'unità di misura di un valore dovrebbe essere indicata nell'intestazione della colonna. Se l'unità cambia da un valore all'altro, allora bisognerebbe considerare una colonna dedicata con un'opportuna intestazione e non inserire l'unità insieme al valore stesso. Per le unità dovrebbero essere utilizzati i codici (URI) derivati da un vocabolario controllato.
 
+:::{.ndr}
+
+::::{.ndr-header}
+:::::{.ndr-icon}
+:::::
+NdR - Guida pratica alla pubblicazione di dati in CSV
+::::
+
+::::{.ndr-body}
+Per indicazioni operative sulla preparazione di un file CSV, con esempi e procedure per i fogli di calcolo, si può consultare la [Guida pratica alla pubblicazione di dati in CSV](https://ondata.github.io/guidaPraticaPubblicazioneCSV/) dell'associazione onData, che raccoglie [15 regole in una pagina](https://ondata.github.io/guidaPraticaPubblicazioneCSV/guida/linee_guida_pubblicazione/). Non è un documento AgID.
+
+Sul separatore la guida adotta la virgola, con il punto per i decimali, mentre il documento europeo citato sopra suggerisce il punto e virgola.
+::::
+
+:::
+
 {{< include ./include/risorse-utili/_risorse-allegatoB.2.1.1.qmd >}}
 
 #### JSON (JavaScript Object Notation) {#json}
