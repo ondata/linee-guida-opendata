@@ -67,7 +67,7 @@ book:
     right: |
       Costruito con <a href="https://quarto.org/">Quarto</a>.
     center: |
-      [Licenza CC BY 4.0](https://ondata.github.io/linee-guida-opendata/ndr.html#licenza)
+      [Licenza CC BY 4.0](/ndr.qmd#licenza)
 
 format:
   html:
